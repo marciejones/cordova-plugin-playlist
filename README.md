@@ -1,3 +1,7 @@
+# Updates in this Fork:
+* Included Alex Wang's fix for rmxaudioplayer 'CDVViewController.h' file not found error
+* Updated example service for Ionic 5
+
 # cordova-plugin-playlist
 A Cordova plugin for Android and iOS with native support for audio playlists, background support, and lock screen controls
 
